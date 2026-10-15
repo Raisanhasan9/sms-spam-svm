@@ -1,6 +1,6 @@
    # SMS Spam Classification using SVM
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sms-spam-svm/sms-spam-svm/blob/main/SMS_Spam_SVM.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sms-spam-svm/blob/main/SMS_Spam_SVM.ipynb)
 
 
    ## Dataset
