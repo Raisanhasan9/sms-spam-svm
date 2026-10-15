@@ -2,7 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Raisanhasan9/sms-spam-svm/blob/main/SMS_Spam_SVM.ipynb)
 
-SMS message ke **Spam** ba **Ham** classify kora hoy TF-IDF (word + character n-gram), handcrafted features ar LinearSVC diye.
 
 ## Dataset
 [UCI SMS Spam Collection (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
@@ -12,6 +11,6 @@ SMS message ke **Spam** ba **Ham** classify kora hoy TF-IDF (word + character n-
 - Spam Recall: ~95%
 
 ## How to run
-1. Notebook ta Google Colab e kholo (upor er badge e click koro)
-2. Cell ta run koro
-3. File select korar window ashle Kaggle theke download kora `spam.csv` upload koro
+1. open Notebook  Google Colab 
+2. Cell  run k
+3. and see the output
